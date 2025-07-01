@@ -2,8 +2,11 @@
 The code in this repository suppport the following article published in the HELIYON journal
 
 Title: Long-term effects of the herbicide glyphosate and its main metabolite (aminomethylphosphonic acid) on the growth, chlorophyll a and morphology of freshwater benthic diatoms 
+
 Authors: Sarah Chéron, Vincent Felten, Aishwarya Venkataramanan, Carlos Eduardo Wetzel, David Heudre, Cédric Pradalier, Philippe Usseglio-Polatera, Simon Devin, Martin Laviale.
+
 Year: 2025.
+
 
 This code is based on DeepLabV3 and DeepLabV3+ with MobileNetv2 and ResNet backbones for Pytorch.
 
